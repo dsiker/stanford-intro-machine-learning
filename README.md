@@ -1,7 +1,5 @@
 # Stanford Introduction to Machine Learning 
 
-**Master Deep Learning, and Break into AI**
-
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Introduction
