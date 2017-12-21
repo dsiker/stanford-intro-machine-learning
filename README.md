@@ -4,7 +4,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Introduction
 
-This repo contains all projects and matlab code for Introduction to Machine Learning with Andrew Ng offered by Stanford University through Coursera. All the base code is taken from [Intro to Machine Learning on Coursera](https://www.coursera.org/specializations/deep-learning).
+This repo contains all projects and matlab code for Introduction to Machine Learning with Andrew Ng offered by Stanford University through Coursera. All the base code is taken from [Intro to Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning).
 
 ## Programming Assignments
 
